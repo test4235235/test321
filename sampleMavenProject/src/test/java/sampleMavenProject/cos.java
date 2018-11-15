@@ -16,7 +16,7 @@ import org.junit.runner.RunWith;
 public class cos {
 	@Given("^something new$")
 	public void  typeWebpageUrlForGmailHomePage(String url) {
-		System.out.println("hfjhkjh");
+		System.out.println("hfjhjhhhhjh");
 	} 
 
 }
